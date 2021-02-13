@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS374639EmptyActivity</string>
+    <string name="click_me">Click me now!</string>
+    <string name="hello_world">Hello World, again!</string>
+    <string name="button">Button</string>
+    <string name="picture_of_a_cat">picture of a cat</string>
+</resources>
